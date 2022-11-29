@@ -16,11 +16,11 @@ La unica persona que estudió fue Bob, ya que si Alice dice la verdad entonces s
 ## ---Algoritmo para preparar un desayuno---
  1. Primero consigue el tazón;
  2. Toma la leche en si es polvo 
-  2.1 Entonces
-   2.1.1 Consigue un vaso y una cuchara
-   2.1.2 Añade 3 cucharadas de leche
-   2.1.3 Llena el vaso con agua
-   2.1.4 Con la cuchara revuelve la leche para disolver el polvo en el agua
+ 2.1 Entonces
+ 2.1.1 Consigue un vaso y una cuchara
+ 2.1.2 Añade 3 cucharadas de leche
+ 2.1.3 Llena el vaso con agua
+ 2.1.4 Con la cuchara revuelve la leche para disolver el polvo en el agua
 Si no
      2.2 Toma la leche del refrigerador;
  3. Toma el cereal que más te gusta;
