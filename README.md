@@ -21,8 +21,8 @@ La unica persona que estudió fue Bob, ya que si Alice dice la verdad entonces s
  - 2.1.2 Añade 3 cucharadas de leche
  - 2.1.3 Llena el vaso con agua
  - 2.1.4 Con la cuchara revuelve la leche para disolver el polvo en el agua
-Si no
-     2.2 Toma la leche del refrigerador;
+ - Si no
+ - 2.2 Toma la leche del refrigerador;
  3. Toma el cereal que más te gusta;
  4. Abre la caja del cereal;
  5. Llena el tazón con el cereal;
