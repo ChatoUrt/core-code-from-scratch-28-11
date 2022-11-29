@@ -16,7 +16,7 @@ La unica persona que estudió fue Bob, ya que si Alice dice la verdad entonces s
 ## ---Algoritmo para preparar un desayuno---
  1. Primero consigue el tazón;
  2. Toma la leche en si es polvo 
-  2. Entonces
+  2.1 Entonces
    2.1.1 Consigue un vaso y una cuchara
    2.1.2 Añade 3 cucharadas de leche
    2.1.3 Llena el vaso con agua
