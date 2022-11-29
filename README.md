@@ -9,7 +9,8 @@ El maestro le pregunta a sus 5 estudiantes si estudiaron matemáticas ayer
 - Eva: 4 personas estudiaron ayer
 El maestro sabe que solo los que estudiaron estarán diciendo la verdad y aquellos que no estarán mintiendo. ¿Quién está diciendo la verdad?
 
-### R// La unica persona que estudió fue Bob, ya que si Alice dice la verdad entonces significa que ella no estudio, pero es una contradicción con lo que el maestro sabe. En el caso del resto (excluyendo a Bob) si dicen que tantas personas estudiaron, eso sifnifica que alguno de los anteriores también dijo la verdad y la pregunta hecha en inglés "who is" habla de que solo 1 puede decir la verdad y no varios a la vez, entonces se cotradice, por lo que solo Bob es quien realmente dice la verdad al haber estudiado.
+### R// 
+La unica persona que estudió fue Bob, ya que si Alice dice la verdad entonces significa que ella no estudio, pero es una contradicción con lo que el maestro sabe. En el caso del resto (excluyendo a Bob) si dicen que tantas personas estudiaron, eso sifnifica que alguno de los anteriores también dijo la verdad y la pregunta hecha en inglés "who is" habla de que solo 1 puede decir la verdad y no varios a la vez, entonces se cotradice, por lo que solo Bob es quien realmente dice la verdad al haber estudiado.
 
 ---
 ## ---Algoritmo para preparar un desayuno---
